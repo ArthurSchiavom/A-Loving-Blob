@@ -1,0 +1,36 @@
+"_May the world be born from my paint brush_"
+
+There is a (mysterious looking(camera placed in his head, see in 1st person, face not shown, at least in the start)) boy.
+He's walking on the street, now crossing a road: "Damned world. _I hate this world_, so I end up drowning myself in my imagination. I like drawing, I can create a world with my own hands, one better than this hateful reality." He gets ran over.
+
+This game would be perfect for VR.
+
+Now he awakes in a different world. It's empty, blank. He's naked, with no hair, no body, he's only a hand, with only has a paint-brush on his hand. (It looks all natural because it's a dream. He's in coma)
+
+"A brush? Why do I have it on my hand?" - He still hasn't noticed that he has no body, it's a dream, looks natural.
+He, moved by his liking for drawing, draws a tiger by instinct. That tiger gains life. "? (expression, no words) I haven't given it colors nor details, but it's just as I imagined" (again, doesn't look weird cause it's a dream) "Will it attack me? ... __He__'ll (contrast with "it") be my companion"
+
+"Where's my body? ... I have no body." He draws a body for himself (only the contours, no details). That becomes his body.
+
+"So I can create my world" He starts drawing a forest, a very iluminated one, mystical. He draws a house too, near the lake, above the floor level, not higher than the trees, but with a viewpoint attached to the house. That's the initial map, outside of that, there is only emptiness, all blank.
+
+"_May the world be born from my paint brush_" text appears, black screen.
+
+Game name: World
+
+Maybe another mode too. Different mode possibility: Game created by a player, users draw lines to spawn specified items, with animations also specified by the user, incluing object speed. Example: with an horizontal line, spawn a series of arrows that get shot from the line. Any world can be turned into a mini-game world.
+
+This is an online game, you create your own world. You can draw contours on the air to instance some objects. Contours are user defined.
+
+---------------------------
+(Same start as the previous, but an action game)
+"_May the world be born from my paint brush_"
+
+There is a (mysterious looking(camera placed in his head, see in 1st person, face not shown, at least in the start)) boy.
+He's walking on the street, now crossing a road: "Damned world. _I hate this world_, so I end up drowning myself in my imagination. I like drawing, I can create a world with my own hands, one better than this hateful reality." He gets ran over.
+
+He suddenly appears in a forest, this time with a body. He has the paint brush on his hand. A tiger attacks him, by instinct, he moves his arm on a way that it makes a line. That black line expands up and down, forming a wall. He was on the ground, the line was made while aiming up, making the wall not 90º but less, so it starts crumbling over him, he runs, the tiger goes after him, climbed the wall cause of possible inclination. He creates another line, this time aiming forward, making a 90º (with the floor) wall.
+
+He makes a shelter from the rain using walls. 1 on each side except for one side, that has 2, in order to leave an exit hole, and a wall to serve as roof. Wall size is controlled by the size of the line.
+
+First attack: series of arrows: by drawing a line that looks like a reversed V (from the creator perspective), arrows are born from the ink and shoot on the direction that the V points to.
