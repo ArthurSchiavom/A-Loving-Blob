@@ -21,6 +21,10 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "MfMedia",
+			"Enabled": true
 		}
 	]
 }

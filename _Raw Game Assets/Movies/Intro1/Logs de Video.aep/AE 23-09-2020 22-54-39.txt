@@ -1,0 +1,8 @@
+  23/09/2020 22:54:40: iniciando composição “Composição 1”.
+
+  Saída para: C:\Users\arthu\Documents\Unreal Projects\Exploring3\_Raw Game Assets\Movies\Intro1\Intro1.avi    23/09/2020 23:04:17: composição concluída “Composição 1”.
+
+
+  Tempo total decorrido: 9 min, 18 s
+Log fechado em 23/09/2020 às 23:04:52
+
