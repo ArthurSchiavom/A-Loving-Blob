@@ -9,5 +9,3 @@ Implementado de momento:
 * Entidades de dano contínuo - Ex. Fogo
 * Entidades destrutíveis com diferentes estados de apresentação - Ex. Parede destrutível
 * Ataque inferior - O blob estica para cima e comprime rapidamente (animação), causando dano aos objetos em baixo do jogador
-
-Este projeto passou a ser closed-source.
